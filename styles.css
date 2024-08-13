@@ -1,0 +1,73 @@
+body {
+    color: rgb(252, 75, 8);
+    background: black;
+    margin: 5px;
+    font-family: "Lora", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(252, 75, 8);
+    padding: 20px;
+    font-size: 32px;
+}
+
+.Text-Introduce {
+    background: rgb(252, 75, 8)
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.Text-Space {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.Outros-Vídeos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.Outros-Vídeos img:hover {
+    opacity: 1.0;
+    border: 1px solid orangered;
+}
+
+.Outros-Vídeos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
